@@ -1,0 +1,11 @@
+{
+  "name": "hyper-window-titles",
+  "version": "1.0.0",
+  "keywords": [
+    "hyper",
+    "hyper.app",
+    "hyper-plugin"
+  ],
+  "description": "Fixes window titles not showing correctly on linux.",
+
+}
