@@ -6,6 +6,6 @@
     "hyper.app",
     "hyper-plugin"
   ],
-  "description": "Fixes window titles not showing correctly on linux.",
+  "description": "Fixes window titles not showing correctly on linux."
 
 }
