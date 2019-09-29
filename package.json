@@ -6,6 +6,10 @@
     "hyper.app",
     "hyper-plugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elementc/hyper-window-titles.git"
+  },
   "description": "Fixes window titles not showing correctly on linux."
 
 }
